@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">DODI</string>
+
+    <string name="username_email_hint">Username/Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Log In</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="about_us_text">About Us</string>
+    <string name="title_activity_diagnosis">Diagnosis</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_us">Dog Diagnosis is a mobile application developed for Dog Breeders and Rearers.</string>
+
+    <string name="running_nose">Running Nose</string>
+    <string name="coughing">Coughing</string>
+    <string name="vomiting">Vomiting</string>
+    <string name="lethargy">Lethargy</string>
+    <string name="loss_of_appetite">Loss of Appetite</string>
+    <string name="partial_paralysis">Partial Paralysis</string>
+    <string name="fever">Fever</string>
+    <string name="jaundice">Jaundice</string>
+    <string name="irritable_aggression">Irritable Aggression</string>
+    <string name="diarrhea">Diarrhea</string>
+    <string name="dehydration">Dehydration</string>
+    <string name="smelly">Smelly</string>
+
+    <!--Symptoms-->
+    <string-array name="symptoms">
+        <item>Coughing</item>
+        <item>Dehydration</item>
+        <item>Diarrhea</item>
+        <item>Fever</item>
+        <item>Irritable Aggression</item>
+        <item>Jaundice</item>
+        <item>Lethargy</item>
+        <item>Loss of Appetite</item>
+        <item>Partial Paralysis</item>
+        <item>Running Nose</item>
+        <item>Smelly</item>
+        <item>Vomiting</item>
+    </string-array>
+
+    <!--List of diagnosis-->
+    <string-array name="diseases">
+        <item>distemper</item>
+        <item>hepatitis</item>
+        <item>leptospirosis</item>
+        <item>para_influenza</item>
+        <item>parvovirus</item>
+        <item>rabies</item>
+        <item>bordatella</item>
+        <item>corona_virus</item>
+        <item>lyme_disease</item>
+        <item>coccidiosis</item>
+        <item>giardiosis</item>
+    </string-array>
+    <!--Diagnosis with corresponding symptoms-->
+    <string-array name="distemper">
+        <item>Coughing</item>
+        <item>Diarrhea</item>
+        <item>Lethargy</item>
+        <item>Loss of Appetite</item>
+        <item>Partial Paralysis</item>
+        <item>Running Nose</item>
+        <item>Vomiting</item>
+    </string-array>
+    <string-array name="leptospirosis">
+        <item>Dehydration</item>
+        <item>Fever</item>
+        <item>Jaundice</item>
+        <item>Lethargy</item>
+        <item>Loss of Appetite</item>
+        <item>Vomiting</item>
+    </string-array>
+    <string-array name="para_influenza">
+        <item>Coughing</item>
+        <item>Fever</item>
+        <item>Running Nose</item>
+    </string-array>
+    <string-array name="parvovirus">
+        <item>Dehydration</item>
+        <item>Diarrhea</item>
+        <item>Lethargy</item>
+        <item>Loss of Appetite</item>
+        <item>Vomiting</item>
+    </string-array>
+    <string-array name="rabies">
+        <item>Irritable Aggression</item>
+        <item>Lack of Cordination</item>
+        <item>Partial Paralysis</item>
+    </string-array>
+    <string-array name="bordatella">
+        <item>Coughing</item>
+        <item>Running Nose</item>
+        <item>Sneezing</item>
+    </string-array>
+    <string-array name="corona_virus">
+        <item>Dehydration</item>
+        <item>Diarrhea</item>
+        <item>Lethargy</item>
+        <item>Loss of Appetite</item>
+    </string-array>
+    <string-array name="lyme_disease">
+        <item>Lethargy</item>
+        <item>Limping</item>
+        <item>Swollen and/or painful joints</item>
+    </string-array>
+    <string-array name="coccidiosis">
+        <item>Diarrhea</item>
+        <item>Lethargy</item>
+        <item>Loss of Appetite</item>
+        <item>Smelly</item>
+        <item>Vomiting</item>
+    </string-array>
+    <string-array name="giardiosis">
+        <item>Diarrhea</item>
+        <item>Lethargy</item>
+        <item>Smelly</item>
+        <item>Vomiting</item>
+        <item>Weight Loss</item>
+    </string-array>
+
+    <!--Treatments-->
+    <string name="distemper">Treatment is basically supportive care such as encouragement to eat, fluid administration and veterinary care for seizures.</string>
+    <string name="hepatitis">Treatment is supportive care which may include IV fluids and medications.</string>
+    <string name="leptospirosis">Early antibiotic treatment can lessen the severity and/or duration of this illness.</string>
+    <string name="para_influenza">Treatment is mostly supportive; with antibiotics being given for secondary infections.</string>
+    <string name="parvovirus">Treatment is mainly supportive and relies heavily in intravenous fluids to counteract dehydration and
+        intravenous antibiotics to attack sepsis infection.</string>
+    <string name="rabies">There is no treatment for Rabies and the disease is always fatal.</string>
+    <string name="bordatella">Treatment in mild cases can just be supportive, but in severe cases or when secondary infections
+        are present (just as pneumonia) antibiotics are used.</string>
+    <string name="corona_virus">Treatment is supportive and concentrates on treating the dehydration.</string>
+    <string name="lyme_disease">Treatment is usually several weeks on antibiotics.</string>
+    <string name="coccidiosis">Treatment is supportive, with fluids being given to combat dehydration. Plus the use of a sulfa-antibiotic
+        to treat the disease, usually a 5-7 day course.</string>
+    <string name="giardiosis">Antibiotics are required, and the most commonly used medications are Metronidazole (known as Flagyl) and
+        Fenbendazole (Panacur). Both are effective, but your pup may need more than one round of treatment to eliminate the problem.
+        Giodiosis can be transmitted to humans, so avoid swimming in water that could be infected, and follow excellent personal hygiene
+        precautions or your dog gets this disease.</string>
+</resources>
